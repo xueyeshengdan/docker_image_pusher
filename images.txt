@@ -1,3 +1,4 @@
 nginx
 --platform=linux/arm64 portainer/portainer-ce:latest
 --platform=linux/arm64 portainer/portainer-ee:latest
+piaoyizy/openwrt-aarch64
