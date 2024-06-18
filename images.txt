@@ -3,3 +3,4 @@ nginx
 --platform=linux/arm64 portainer/portainer-ee:latest
 piaoyizy/openwrt-aarch64
 --platform=linux/arm64 archef2000/pivpn:latest
+--platform=linux/arm64 weejewel/pivpn-web:latest
