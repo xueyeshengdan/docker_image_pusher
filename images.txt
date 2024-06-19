@@ -4,6 +4,5 @@ nginx
 piaoyizy/openwrt-aarch64
 --platform=linux/arm64 archef2000/pivpn:latest
 --platform=linux/arm64 weejewel/pivpn-web:latest
---platform=linux/arm64 kylemanna/openvpn:latest
 --platform=linux/arm64 balenalib/raspberrypi5-debian:latest
 --platform=linux/arm64 balenalib/raspberrypi5-ubuntu:latest
