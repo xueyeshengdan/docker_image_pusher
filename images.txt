@@ -1,7 +1,7 @@
 nginx
 --platform=linux/arm64 portainer/portainer-ce:latest
 --platform=linux/arm64 portainer/portainer-ee:latest
---platform=linux/arm64 piaoyizy/openwrt-aarch64
+piaoyizy/openwrt-aarch64
 --platform=linux/arm64 balenalib/raspberrypi5-debian:latest
 --platform=linux/arm64 balenalib/raspberrypi5-ubuntu:latest
 --platform=linux/arm64 openvpn/openvpn-as:latest
