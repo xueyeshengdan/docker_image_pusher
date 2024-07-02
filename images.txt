@@ -6,4 +6,4 @@ piaoyizy/openwrt-aarch64
 --platform=linux/arm64 balenalib/raspberrypi5-ubuntu:latest
 --platform=linux/arm64 openvpn/openvpn-as:latest
 --platform=linux/arm64 openvpn/openvpn-as:latest
---platform=linux/arm64 haugene/transmission-openvpn
+--platform=linux/arm64 darathor/openvpn
