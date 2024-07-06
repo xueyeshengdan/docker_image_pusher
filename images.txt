@@ -9,3 +9,4 @@ piaoyizy/openwrt-aarch64
 --platform=linux/arm64 darathor/openvpn
 --platform=linux/arm64 xiaoyaliu/alist:latest
 --platform=linux/arm64 ghcr.io/ajnart/homarr:latest
+--platform=linux/arm64 ghcr.io/gethomepage/homepage:latest
