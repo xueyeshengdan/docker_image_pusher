@@ -10,3 +10,4 @@ piaoyizy/openwrt-aarch64
 --platform=linux/arm64 xiaoyaliu/alist:latest
 --platform=linux/arm64 ghcr.io/ajnart/homarr:latest
 --platform=linux/arm64 ghcr.io/gethomepage/homepage:latest
+--platform=linux/arm64 xhofe/alist-aria2:latest
