@@ -1,6 +1,8 @@
 nginx
---platform=linux/arm64 portainer/portainer-ce:latest
---platform=linux/arm64 portainer/portainer-ee:latest
+--platform=linux/amd64 p3terx/aria2-pro:latest
+--platform=linux/amd64 p3terx/ariang:latest
+--platform=linux/amd64 portainer/portainer-ce:latest
+--platform=linux/amd64 portainer/portainer-ee:latest
 piaoyizy/openwrt-aarch64
 --platform=linux/arm64 balenalib/raspberrypi5-debian:latest
 --platform=linux/arm64 balenalib/raspberrypi5-ubuntu:latest
@@ -11,3 +13,5 @@ piaoyizy/openwrt-aarch64
 --platform=linux/arm64 ghcr.io/ajnart/homarr:latest
 --platform=linux/arm64 ghcr.io/gethomepage/homepage:latest
 --platform=linux/arm64 xhofe/alist-aria2:latest
+--platform=linux/amd64 p3terx/aria2-pro:latest
+--platform=linux/amd64 p3terx/ariang:latest
