@@ -1,3 +1,4 @@
+--platform=linux/amd64 codercom/code-server:latest
 nginx
 --platform=linux/amd64 openvpn/openvpn-as:latest
 --platform=linux/amd64 p3terx/aria2-pro:latest
@@ -16,4 +17,3 @@ piaoyizy/openwrt-aarch64
 --platform=linux/arm64 xhofe/alist-aria2:latest
 --platform=linux/amd64 p3terx/aria2-pro:latest
 --platform=linux/amd64 p3terx/ariang:latest
---platform=linux/amd64 code-server:latest
